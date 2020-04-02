@@ -1,4 +1,4 @@
 # Android
 AndroidApps
 
-From Android 5.2 to Android 8.0 apps
+From Android 4.4 to latest Android version.
